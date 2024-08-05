@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sakshammonga77
-- 👀 I’m am intersted in web development and Blockchain.
+- 👀 I’m am intersted in web development , Data Visualization and Blockchain.
 - 🌱 I have learnt C , C++ , HTML , CSS , Javascript and now i want to continue with leaning MERN stack development followed by DSA.
 - 💞️ I’m looking to collaborate on the UI/UX and web development for the society i am currently working.
 - 📫 How to reach me ....  Email id = sakshammonga06@gmail.com
